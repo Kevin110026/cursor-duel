@@ -1,0 +1,1 @@
+//global.playerScore = [0, 0];

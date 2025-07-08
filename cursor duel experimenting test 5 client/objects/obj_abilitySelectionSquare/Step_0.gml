@@ -1,0 +1,1 @@
+obj_abilitySelection.selectedAbilities[slot] = ability;

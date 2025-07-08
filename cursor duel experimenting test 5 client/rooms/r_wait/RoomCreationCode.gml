@@ -1,0 +1,1 @@
+scr_enum_init();
